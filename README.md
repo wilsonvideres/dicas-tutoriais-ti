@@ -4,6 +4,7 @@
 ## **Conteúdos já disponíveis**
 
 1. **[Instalação e Configuração do Hamachi no Linux](linux/hamachi-no-linux.md)**
+2. **[Acessando Área de Trabalho Remota do Windows no Linux](linux/acesso-remoto-rdp.md)**
 
 ## **Sugestões e Feedback**
 
