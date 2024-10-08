@@ -3,7 +3,7 @@
 
 ## **Conteúdos já disponíveis**
 
-1. **[Instalação e Configuração do Hamachi no Linux](linux/vpn/hamachi-no-linux.md)**
+1. **[Instalação e Configuração do Hamachi no Linux](linux/hamachi-no-linux.md)**
 
 ## **Sugestões e Feedback**
 
