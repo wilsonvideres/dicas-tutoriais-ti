@@ -5,7 +5,7 @@ Olá, este espaço foi criado para compartilhar dicas e tutoriais de ferramentas
 
 ## **Conteúdos já disponíveis**
 
-1. **Instalação e Configuração do Hamachi no Linux**
+1. **[Instalação e Configuração do Hamachi no Linux](linux/vpn/hamachi-no-linux.md)**
 
 ## **Sugestões e Feedback**
 
