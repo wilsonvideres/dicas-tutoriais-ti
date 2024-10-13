@@ -6,7 +6,7 @@ Neste tutorial, vamos aprender como acessar a Área de Trabalho Remota do Window
 
 ## Pré-requisitos
 
-- **Sistema Linux** com o **Remmina** instalado (veja [como instalar o Remmina](#) se ainda não o fez).
+- **Sistema Linux** com o **Remmina** instalado.
 - **Computador com Windows** configurado para permitir conexões de Área de Trabalho Remota.
 - **Permissão de usuário** no Windows para permitir o acesso remoto.
   
